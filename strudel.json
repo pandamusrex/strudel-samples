@@ -1,1 +1,7 @@
-{"knight-rider":["/knight-rider/scanner-sweep.wav","/knight-rider/turbo-boost.wav"],"_base":"http://localhost:5432"}
+{
+  "_base": "https://raw.githubusercontent.com/pandamusrex/strudel-samples/master/",
+  "knight-rider": [
+    "/knight-rider/scanner-sweep.wav",
+    "/knight-rider/turbo-boost.wav"
+  ]
+}
